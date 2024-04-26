@@ -52,5 +52,7 @@
 
 ```pip install pyspark```
 
+```deactivate```
+
 
 
